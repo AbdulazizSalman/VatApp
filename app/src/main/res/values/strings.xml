@@ -8,4 +8,6 @@
     <string name="vatapp">VatApp</string>
     <string name="calculate_vat">CALCULATE VAT</string>
     <string name="round_up_total">Round Up Total</string>
+    <string name="Total_Amount">Total Amount: %s</string>
+    <string name="VAT_Amount">VAT Amount: %s</string>
 </resources>
